@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/test-for-qsoft/static/css/main.73af4dfd.css",
+    "main.js": "/test-for-qsoft/static/js/main.a7da2228.js",
+    "static/media/john.png": "/test-for-qsoft/static/media/john.f0d978536e48a424fcea.png",
+    "static/media/reebok.png": "/test-for-qsoft/static/media/reebok.d60d1f705314f7980d3e.png",
+    "static/media/mcdonalds.png": "/test-for-qsoft/static/media/mcdonalds.6734c0ec12758eec1e36.png",
+    "static/media/cat.png": "/test-for-qsoft/static/media/cat.04acb47cd734caae6852.png",
+    "static/media/nike.png": "/test-for-qsoft/static/media/nike.91bbdc5922a7700590e1.png",
+    "static/media/profile.svg": "/test-for-qsoft/static/media/profile.ce988f44026927638a4ce99eea9ea0ae.svg",
+    "static/media/ikea.png": "/test-for-qsoft/static/media/ikea.b8aeb8c9794580ece15c.png",
+    "static/media/logo.svg": "/test-for-qsoft/static/media/logo.9d6266394911d7c541477da92b787266.svg",
+    "static/media/henkel.svg": "/test-for-qsoft/static/media/henkel.8c60dd6008df20213abfa975d86725d0.svg",
+    "static/media/profileLogo.svg": "/test-for-qsoft/static/media/profileLogo.097d10a648b8f6aabe743ab69440ecba.svg",
+    "index.html": "/test-for-qsoft/index.html",
+    "static/media/search.svg": "/test-for-qsoft/static/media/search.689e6ef34922954b262131906f7f9499.svg",
+    "main.73af4dfd.css.map": "/test-for-qsoft/static/css/main.73af4dfd.css.map",
+    "main.a7da2228.js.map": "/test-for-qsoft/static/js/main.a7da2228.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73af4dfd.css",
+    "static/js/main.a7da2228.js"
+  ]
+}
